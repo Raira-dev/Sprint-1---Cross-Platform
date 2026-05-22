@@ -83,7 +83,7 @@ Opções:
 
 ---
 
-## 🎨 Protótipo
+## Protótipo
 
 O protótipo possui navegação entre:
 
